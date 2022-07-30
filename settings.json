@@ -1,0 +1,9 @@
+{
+    "db_host": "159.203.37.106",
+    "db_name": "gtarp-phone",
+    "db_username": "root",
+    "db_password": "gvV3c8j8UTurdi6MLbF",
+    "db_connectionLimit": 250,
+    "db_debug": false,
+    "gameDb_name": "gtarp"
+}

@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "type":"module",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "ws": "^8.8.1"
+  }
 }
